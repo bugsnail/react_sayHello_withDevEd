@@ -3,7 +3,7 @@
   background: rgb(96, 162, 182);
   display: flex;
   justify-content: space-around;
-
+  align-items: center;
 }
 
 .tweet{
@@ -15,4 +15,9 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+}
+
+.red{
+  color: red;
+  font-size: 50px;
 }
